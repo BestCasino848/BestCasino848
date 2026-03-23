@@ -42,7 +42,7 @@
 | Category   | Technologies |
 |-----------|---------------|
 | **Backend**  | NestJS, Node.js, Express, Laravel, ASP.NET CORE, Python (Trading/Automation) |
-| **Frontend** | Next.js, React, Vue |
+| **Frontend** | Next.js, React, Vue, Cocos Creator, PixiJS, Unity |
 | **Database** | MySQL, MsSQL, PostgreSQL, SQLite |
 | **Blockchain** | Solidity, web3.js, ethers.js, Solana SDK, Pi network |
 | **Tools**     | Docker, GitHub Actions, MetaTrader 5 API, Telegram Bot API |
