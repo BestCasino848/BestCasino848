@@ -74,10 +74,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Gamerbuild](https://gamerbuild.co) | Casino/Slot game provider | ASP.NET CORE, Cocos Creator |
-| [Genting365](https://genting365.net) | Casino/Slot web platform | ASP.NET CORE, Next.js, Cocos Creator |
+| [Genting365](https://genting365.net) | Casino/Slot solution | ASP.NET CORE, Next.js, Cocos Creator |
 | [BetHoundPro](#) | Trading bot / Sports betting system | Python, MT5, Telegram |
-| [PredictPix](https://predictpix.com) | Blockchain app | Pi Network, FastAPI, NextJS |
-| [DBM](https://dbm.mn) | Website for Development Bank of Mongolia | NestJS, NextJS |
+| [PredictPix](https://sandbox.predictpix.com) | Blockchain app | Pi Network, FastAPI, NextJS |
+| [DBM](https://www.dbm.mn) | Website for Development Bank of Mongolia | NestJS, NextJS |
 
 ---
 
