@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oliver Bennett
+# 👋 Hi, I'm Petar Glomuz
 
 **🎰 Casino & Slot Game Developer** | **🌐 Web Developer** | **⛓️ Blockchain Integrator** | **📊 Trading Bot & Sports Betting App Specialist**
 
